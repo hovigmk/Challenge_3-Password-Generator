@@ -4,7 +4,9 @@
 
 ## Description
 
-This website was created for boot camp students who were going through the course. It involves HTML, CSS, Git. the objective was to create a password generator that asks the user what type of characters to include in their generated password i.e uppercase, numbers, special characters
+This website was created for boot camp students who were going through the course. It involves HTML, CSS, Git. the objective was to create a password generator that asks the user what type of characters to include in their generated password i.e uppercase, numbers, special characters.
+Screenshot of the final product: https://github.com/hovigmk/Challenge_3-Password-Generator/issues/1#issue-1430637936
+The criteria used in the sample were a password of 8 characters that includes numbers and lowercase characters.
 
 ## Installation
 
